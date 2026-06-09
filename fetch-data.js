@@ -248,15 +248,15 @@ function buildHtml(payload) {
   }
   .fw-name {
     margin-top: 30px; padding: 0 6px; text-align: center;
-    font-size: 12.5px; font-weight: 800; line-height: 1.1; color: var(--fw-ink);
+    font-size: 14.5px; font-weight: 800; line-height: 1.1; color: var(--fw-ink);
   }
   .fw-flag {
-    text-align: center; color: var(--fw-muted); font-size: 10px;
-    font-weight: 600; margin-top: 2px; padding-bottom: 8px;
+    text-align: center; color: var(--fw-muted); font-size: 11.5px;
+    font-weight: 600; margin-top: 3px; padding-bottom: 8px;
   }
   .fw-block { padding: 0 8px 8px; }
   .fw-block-title {
-    font-size: 8.5px; font-weight: 800; text-transform: uppercase;
+    font-size: 10px; font-weight: 800; text-transform: uppercase;
     letter-spacing: 0.4px; color: var(--fw-muted);
     display: flex; align-items: center; gap: 4px; margin: 6px 0 5px;
   }
