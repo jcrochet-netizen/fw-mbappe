@@ -224,13 +224,6 @@ function buildHtml(payload) {
     border: 1px solid var(--fw-line);
     border-radius: 12px;
   }
-  .fw-head { text-align: center; margin-bottom: 12px; }
-  .fw-head h2 {
-    margin: 0; font-size: 17px; font-weight: 800; letter-spacing: -0.3px;
-    color: var(--fw-ink);
-  }
-  .fw-head h2 b { color: var(--fw-green); }
-  .fw-head p { margin: 3px 0 0; color: var(--fw-muted); font-size: 11px; }
   .fw-grid {
     display: grid; gap: 10px;
     grid-template-columns: repeat(4, 1fr);
@@ -286,7 +279,10 @@ function buildHtml(payload) {
     margin-top: 11px; text-align: center; color: var(--fw-muted); font-size: 9.5px;
   }
   .fw-foot a { color: var(--fw-green); text-decoration: none; font-weight: 600; }
-  .fw-legend { color: var(--fw-muted); }
+  .fw-caption {
+    font-size: 11px; font-weight: 600; color: var(--fw-ink); margin-bottom: 5px;
+  }
+  .fw-caption .fw-legend { color: var(--fw-muted); font-weight: 500; }
   /* Replis responsive : on garde une seule ligne le plus longtemps possible */
   @media (max-width: 540px) {
     .fw-grid { grid-template-columns: repeat(2, 1fr); }
@@ -297,13 +293,10 @@ function buildHtml(payload) {
 </head>
 <body>
   <div class="fw-widget" id="fw-widget">
-    <div class="fw-head">
-      <h2>Four legends, <b>two lenses</b></h2>
-      <p>Current club season · For country since the 2022 World Cup
-        &nbsp;—&nbsp; <span class="fw-legend">M&nbsp;matches · G&nbsp;goals · A&nbsp;assists</span></p>
-    </div>
     <div class="fw-grid" id="fw-grid"></div>
     <div class="fw-foot">
+      <div class="fw-caption">Current club season · For country since the 2022 World Cup
+        &nbsp;—&nbsp; <span class="fw-legend">M&nbsp;matches · G&nbsp;goals · A&nbsp;assists</span></div>
       Data by <a href="https://www.sportmonks.com" target="_blank" rel="noopener">SportMonks</a> ·
       updated <span id="fw-date"></span>
     </div>
