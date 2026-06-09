@@ -23,7 +23,13 @@ Données issues de l'**API SportMonks Football v3** (même token que le projet D
 node fetch-data.js
 ```
 
-Régénère `data.json` et `index.html` avec les dernières stats. À relancer périodiquement (ex. après chaque journée). Le token peut être surchargé via la variable d'environnement `SPORTMONKS_API_TOKEN`.
+Régénère `data.json` et `index.html` avec les dernières stats. À relancer périodiquement (ex. après chaque journée). Le token est lu depuis `.env` ou la variable d'environnement `SPORTMONKS_API_TOKEN`.
+
+## Rafraîchissement automatique (GitHub Actions)
+
+Le workflow [`.github/workflows/refresh-stats.yml`](.github/workflows/refresh-stats.yml) régénère les stats **chaque jour à 05h30 UTC** (et à la demande via *Actions → Refresh stats → Run workflow*). S'il y a des changements, il commit `data.json` + `index.html`, ce qui redéclenche le déploiement GitHub Pages.
+
+Le token est lu depuis le **secret de dépôt** `SPORTMONKS_API_TOKEN` (Settings → Secrets and variables → Actions). Pour le mettre à jour : remplacer la valeur du secret.
 
 ## Intégrer sur Footballwhispers.com
 
