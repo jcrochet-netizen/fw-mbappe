@@ -1,0 +1,363 @@
+{
+  "generatedAt": "2026-06-09T15:37:54.423Z",
+  "source": "SportMonks Football API v3",
+  "players": [
+    {
+      "id": 997,
+      "name": "Harry Kane",
+      "image": "https://cdn.sportmonks.com/images/soccer/players/5/997.png",
+      "season": "2025/2026",
+      "club": {
+        "matches": 51,
+        "goals": 61,
+        "assists": 7,
+        "competitions": [
+          {
+            "name": "Super Cup",
+            "matches": 1,
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "name": "DFB Pokal",
+            "matches": 6,
+            "goals": 10,
+            "assists": 0
+          },
+          {
+            "name": "Champions League",
+            "matches": 13,
+            "goals": 14,
+            "assists": 2
+          },
+          {
+            "name": "Bundesliga",
+            "matches": 31,
+            "goals": 36,
+            "assists": 5
+          }
+        ]
+      },
+      "national": {
+        "country": "England",
+        "matches": 33,
+        "goals": 26,
+        "assists": 2,
+        "competitions": [
+          {
+            "name": "Euro Qualification",
+            "season": "2024",
+            "matches": 8,
+            "goals": 8,
+            "assists": 2
+          },
+          {
+            "name": "Friendly International",
+            "season": "2023",
+            "matches": 1,
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "name": "WC Qualification Europe",
+            "season": "2026",
+            "matches": 8,
+            "goals": 8,
+            "assists": 0
+          },
+          {
+            "name": "European Championship",
+            "season": "2024",
+            "matches": 7,
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "name": "Friendly International",
+            "season": "2024",
+            "matches": 2,
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "name": "UEFA Nations League",
+            "season": "2024/2025",
+            "matches": 5,
+            "goals": 3,
+            "assists": 0
+          },
+          {
+            "name": "Friendly International",
+            "season": "2025",
+            "matches": 1,
+            "goals": 1,
+            "assists": 0
+          },
+          {
+            "name": "Friendly International",
+            "season": "2026",
+            "matches": 1,
+            "goals": 1,
+            "assists": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 96611,
+      "name": "Kylian Mbappé",
+      "image": "https://cdn.sportmonks.com/images/soccer/players/3/96611.png",
+      "season": "2025/2026",
+      "club": {
+        "matches": 44,
+        "goals": 42,
+        "assists": 6,
+        "competitions": [
+          {
+            "name": "Champions League",
+            "matches": 11,
+            "goals": 15,
+            "assists": 1
+          },
+          {
+            "name": "La Liga",
+            "matches": 31,
+            "goals": 25,
+            "assists": 5
+          },
+          {
+            "name": "Super Cup",
+            "matches": 1,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "name": "Copa Del Rey",
+            "matches": 1,
+            "goals": 2,
+            "assists": 0
+          }
+        ]
+      },
+      "national": {
+        "country": "France",
+        "matches": 32,
+        "goals": 20,
+        "assists": 16,
+        "competitions": [
+          {
+            "name": "Euro Qualification",
+            "season": "2024",
+            "matches": 8,
+            "goals": 9,
+            "assists": 6
+          },
+          {
+            "name": "Friendly International",
+            "season": "2023",
+            "matches": 1,
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "name": "WC Qualification Europe",
+            "season": "2026",
+            "matches": 4,
+            "goals": 5,
+            "assists": 3
+          },
+          {
+            "name": "European Championship",
+            "season": "2024",
+            "matches": 5,
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "name": "Friendly International",
+            "season": "2024",
+            "matches": 4,
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "name": "UEFA Nations League",
+            "season": "2024/2025",
+            "matches": 6,
+            "goals": 2,
+            "assists": 2
+          },
+          {
+            "name": "Friendly International",
+            "season": "2026",
+            "matches": 4,
+            "goals": 1,
+            "assists": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 580,
+      "name": "Cristiano Ronaldo",
+      "image": "https://cdn.sportmonks.com/images/soccer/players/4/580.png",
+      "season": "2025/2026",
+      "club": {
+        "matches": 37,
+        "goals": 30,
+        "assists": 4,
+        "competitions": [
+          {
+            "name": "Kings Cup",
+            "matches": 1,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "name": "AFC Champions League Two",
+            "matches": 4,
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "name": "Pro League",
+            "matches": 30,
+            "goals": 28,
+            "assists": 2
+          },
+          {
+            "name": "Super Cup",
+            "matches": 2,
+            "goals": 1,
+            "assists": 1
+          }
+        ]
+      },
+      "national": {
+        "country": "Portugal",
+        "matches": 31,
+        "goals": 25,
+        "assists": 4,
+        "competitions": [
+          {
+            "name": "Euro Qualification",
+            "season": "2024",
+            "matches": 9,
+            "goals": 10,
+            "assists": 2
+          },
+          {
+            "name": "WC Qualification Europe",
+            "season": "2026",
+            "matches": 5,
+            "goals": 5,
+            "assists": 0
+          },
+          {
+            "name": "European Championship",
+            "season": "2024",
+            "matches": 5,
+            "goals": 0,
+            "assists": 1
+          },
+          {
+            "name": "Friendly International",
+            "season": "2024",
+            "matches": 2,
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "name": "UEFA Nations League",
+            "season": "2024/2025",
+            "matches": 9,
+            "goals": 8,
+            "assists": 1
+          },
+          {
+            "name": "Friendly International",
+            "season": "2026",
+            "matches": 1,
+            "goals": 0,
+            "assists": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 184798,
+      "name": "Lionel Messi",
+      "image": "https://cdn.sportmonks.com/images/soccer/players/30/184798.png",
+      "season": "2026 · MLS",
+      "club": {
+        "matches": 16,
+        "goals": 13,
+        "assists": 8,
+        "competitions": [
+          {
+            "name": "Major League Soccer",
+            "matches": 14,
+            "goals": 12,
+            "assists": 8
+          },
+          {
+            "name": "CONCACAF Champions Cup",
+            "matches": 2,
+            "goals": 1,
+            "assists": 0
+          }
+        ]
+      },
+      "national": {
+        "country": "Argentina",
+        "matches": 26,
+        "goals": 18,
+        "assists": 9,
+        "competitions": [
+          {
+            "name": "Friendly International",
+            "season": "2023",
+            "matches": 3,
+            "goals": 5,
+            "assists": 1
+          },
+          {
+            "name": "WC Qualification South America",
+            "season": "2026",
+            "matches": 12,
+            "goals": 8,
+            "assists": 3
+          },
+          {
+            "name": "Copa America",
+            "season": "2024",
+            "matches": 5,
+            "goals": 1,
+            "assists": 1
+          },
+          {
+            "name": "Friendly International",
+            "season": "2024",
+            "matches": 2,
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "name": "Friendly International",
+            "season": "2025",
+            "matches": 2,
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "name": "Friendly International",
+            "season": "2026",
+            "matches": 2,
+            "goals": 1,
+            "assists": 0
+          }
+        ]
+      }
+    }
+  ]
+}
