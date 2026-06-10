@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T17:20:50.753Z",
+  "generatedAt": "2026-06-10T09:03:23.639Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -310,8 +310,8 @@
       },
       "national": {
         "country": "Argentina",
-        "matches": 26,
-        "goals": 18,
+        "matches": 27,
+        "goals": 19,
         "assists": 9,
         "competitions": [
           {
@@ -352,8 +352,8 @@
           {
             "name": "Friendly International",
             "season": "2026",
-            "matches": 2,
-            "goals": 1,
+            "matches": 3,
+            "goals": 2,
             "assists": 0
           }
         ]
