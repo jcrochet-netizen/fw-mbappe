@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T09:03:23.639Z",
+  "generatedAt": "2026-06-11T09:49:08.469Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -40,7 +40,7 @@
       },
       "national": {
         "country": "England",
-        "matches": 33,
+        "matches": 34,
         "goals": 26,
         "assists": 2,
         "competitions": [
@@ -96,7 +96,7 @@
           {
             "name": "Friendly International",
             "season": "2026",
-            "matches": 1,
+            "matches": 2,
             "goals": 1,
             "assists": 0
           }
@@ -235,7 +235,7 @@
       },
       "national": {
         "country": "Portugal",
-        "matches": 31,
+        "matches": 32,
         "goals": 25,
         "assists": 4,
         "competitions": [
@@ -277,7 +277,7 @@
           {
             "name": "Friendly International",
             "season": "2026",
-            "matches": 1,
+            "matches": 2,
             "goals": 0,
             "assists": 0
           }
