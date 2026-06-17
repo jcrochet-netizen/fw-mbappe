@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T10:23:31.301Z",
+  "generatedAt": "2026-06-17T10:12:16.267Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -141,8 +141,8 @@
       },
       "national": {
         "country": "France",
-        "matches": 32,
-        "goals": 20,
+        "matches": 33,
+        "goals": 22,
         "assists": 16,
         "competitions": [
           {
@@ -186,6 +186,13 @@
             "matches": 6,
             "goals": 2,
             "assists": 2
+          },
+          {
+            "name": "World Cup",
+            "season": "2026",
+            "matches": 1,
+            "goals": 2,
+            "assists": 0
           },
           {
             "name": "Friendly International",
@@ -310,8 +317,8 @@
       },
       "national": {
         "country": "Argentina",
-        "matches": 27,
-        "goals": 19,
+        "matches": 28,
+        "goals": 22,
         "assists": 9,
         "competitions": [
           {
@@ -348,6 +355,13 @@
             "matches": 2,
             "goals": 1,
             "assists": 3
+          },
+          {
+            "name": "World Cup",
+            "season": "2026",
+            "matches": 1,
+            "goals": 3,
+            "assists": 0
           },
           {
             "name": "Friendly International",
