@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T11:10:55.078Z",
+  "generatedAt": "2026-06-23T08:41:11.060Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -148,8 +148,8 @@
       },
       "national": {
         "country": "France",
-        "matches": 33,
-        "goals": 22,
+        "matches": 34,
+        "goals": 24,
         "assists": 16,
         "competitions": [
           {
@@ -197,8 +197,8 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 1,
-            "goals": 2,
+            "matches": 2,
+            "goals": 4,
             "assists": 0
           },
           {
@@ -331,8 +331,8 @@
       },
       "national": {
         "country": "Argentina",
-        "matches": 28,
-        "goals": 22,
+        "matches": 29,
+        "goals": 24,
         "assists": 9,
         "competitions": [
           {
@@ -373,8 +373,8 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 1,
-            "goals": 3,
+            "matches": 2,
+            "goals": 5,
             "assists": 0
           },
           {
