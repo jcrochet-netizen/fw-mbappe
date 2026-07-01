@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T08:40:38.474Z",
+  "generatedAt": "2026-07-01T08:57:39.952Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -148,8 +148,8 @@
       },
       "national": {
         "country": "France",
-        "matches": 35,
-        "goals": 24,
+        "matches": 36,
+        "goals": 26,
         "assists": 18,
         "competitions": [
           {
@@ -197,8 +197,8 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 3,
-            "goals": 4,
+            "matches": 4,
+            "goals": 6,
             "assists": 2
           },
           {
