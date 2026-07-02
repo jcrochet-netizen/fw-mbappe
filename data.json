@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:57:39.952Z",
+  "generatedAt": "2026-07-02T08:27:21.861Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -40,8 +40,8 @@
       },
       "national": {
         "country": "England",
-        "matches": 37,
-        "goals": 29,
+        "matches": 38,
+        "goals": 31,
         "assists": 2,
         "competitions": [
           {
@@ -96,8 +96,8 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 3,
-            "goals": 3,
+            "matches": 4,
+            "goals": 5,
             "assists": 0
           },
           {
