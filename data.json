@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:27:21.861Z",
+  "generatedAt": "2026-07-03T08:31:42.895Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -249,8 +249,8 @@
       },
       "national": {
         "country": "Portugal",
-        "matches": 35,
-        "goals": 27,
+        "matches": 36,
+        "goals": 28,
         "assists": 4,
         "competitions": [
           {
@@ -291,8 +291,8 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 3,
-            "goals": 2,
+            "matches": 4,
+            "goals": 3,
             "assists": 0
           },
           {
