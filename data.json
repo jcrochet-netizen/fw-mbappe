@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T08:23:19.633Z",
+  "generatedAt": "2026-07-06T09:15:00.057Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -40,9 +40,9 @@
       },
       "national": {
         "country": "England",
-        "matches": 38,
-        "goals": 31,
-        "assists": 2,
+        "matches": 39,
+        "goals": 32,
+        "assists": 3,
         "competitions": [
           {
             "name": "Euro Qualification",
@@ -96,9 +96,9 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 4,
-            "goals": 5,
-            "assists": 0
+            "matches": 5,
+            "goals": 6,
+            "assists": 1
           },
           {
             "name": "Friendly International",
