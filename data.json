@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:26:48.132Z",
+  "generatedAt": "2026-07-16T07:34:20.050Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -40,7 +40,7 @@
       },
       "national": {
         "country": "England",
-        "matches": 40,
+        "matches": 41,
         "goals": 32,
         "assists": 3,
         "competitions": [
@@ -96,7 +96,7 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 6,
+            "matches": 7,
             "goals": 6,
             "assists": 1
           },
@@ -331,9 +331,9 @@
       },
       "national": {
         "country": "Argentina",
-        "matches": 33,
+        "matches": 34,
         "goals": 27,
-        "assists": 11,
+        "assists": 13,
         "competitions": [
           {
             "name": "Friendly International",
@@ -373,9 +373,9 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 6,
+            "matches": 7,
             "goals": 8,
-            "assists": 2
+            "assists": 4
           },
           {
             "name": "Friendly International",
