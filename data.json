@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T07:13:27.484Z",
+  "generatedAt": "2026-07-19T07:37:58.857Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -148,9 +148,9 @@
       },
       "national": {
         "country": "France",
-        "matches": 39,
-        "goals": 28,
-        "assists": 19,
+        "matches": 40,
+        "goals": 30,
+        "assists": 20,
         "competitions": [
           {
             "name": "Euro Qualification",
@@ -197,9 +197,9 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 7,
-            "goals": 8,
-            "assists": 3
+            "matches": 8,
+            "goals": 10,
+            "assists": 4
           },
           {
             "name": "Friendly International",
