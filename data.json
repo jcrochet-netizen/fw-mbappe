@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:37:58.857Z",
+  "generatedAt": "2026-07-20T08:21:01.807Z",
   "source": "SportMonks Football API v3",
   "players": [
     {
@@ -331,7 +331,7 @@
       },
       "national": {
         "country": "Argentina",
-        "matches": 34,
+        "matches": 35,
         "goals": 27,
         "assists": 13,
         "competitions": [
@@ -373,7 +373,7 @@
           {
             "name": "World Cup",
             "season": "2026",
-            "matches": 7,
+            "matches": 8,
             "goals": 8,
             "assists": 4
           },
